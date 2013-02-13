@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'projd',
-    version = '0.1',
+    version = '0.1.0',
     license = 'MIT',
     description = 'Utilities for working with projects and applications '
                   'organized within a root directory.',
